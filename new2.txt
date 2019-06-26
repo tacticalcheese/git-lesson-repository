@@ -1,14 +1,24 @@
-<!DOCTYPE html>
-<html>
-    <head>
         <meta charset="utf-8">
         <title></title>
+    </body>
     </head>
     <body>
+    <head>
 
-    </body>
-</html>
 # git-lesson-repository
+<!DOCTYPE html>
+</html>
+<html>
 An example repository for the command line workshop in tools and basics module.
-
 For the problems see the workshop: https://github.com/greenfox-academy/teaching-materials/edit/master/workshop/command-line
+
+a
+s
+d
+ff
+g
+gg
+f
+gg
+f
+
